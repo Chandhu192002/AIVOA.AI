@@ -246,8 +246,7 @@ real application requires `GROQ_API_KEY`).
 
 # 🎥 Project Demo
 
-📹 **Watch the demo video here:**
+Click below to watch the project demo.
 
-![Demo](Recording 2026-07-14 173548 (1).mp4)
-
+▶️ **[Watch Demo Video](./Recording%202026-07-14%20173548%20(1).mp4)**
 
