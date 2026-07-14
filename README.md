@@ -248,6 +248,6 @@ real application requires `GROQ_API_KEY`).
 
 📹 **Watch the demo video here:**
 
-[▶️ Demo Video](./Recording 2026-07-14 173548 (1).mp4)
+![Demo](Recording 2026-07-14 173548 (1).mp4)
 
 
