@@ -234,4 +234,15 @@ real application requires `GROQ_API_KEY`).
 - Small models occasionally phrase confirmations differently; all *data*
   normalisation (dates, sentiment, lists, names) happens in tool code, so the
   form always receives clean values.
+
 `
+<img width="1917" height="1078" alt="Screenshot 2026-07-14 161553" src="https://github.com/user-attachments/assets/2cb149c9-6a36-4642-91a6-5c1571ac28ee" />
+
+<img width="1916" height="1075" alt="Screenshot 2026-07-14 161535" src="https://github.com/user-attachments/assets/bfc6f215-9789-46a5-901c-6d9f09431bc3" />
+
+<img width="1917" height="1012" alt="Screenshot 2026-07-14 160210" src="https://github.com/user-attachments/assets/5cf93149-62e5-4b44-8bfe-b4f399517b7e" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-07-14 160156" src="https://github.com/user-attachments/assets/731094fa-2815-4fc4-bb9d-320280513361" />
+
+
+
