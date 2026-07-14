@@ -1,12 +1,5 @@
 
 
-https://github.com/user-attachments/assets/cc7ff73f-17ae-43db-915b-dedb1f7b5973
-
-
-
-
-
-
 
 # AI-First CRM — HCP Module · Log Interaction Screen
 
