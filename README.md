@@ -244,6 +244,10 @@ real application requires `GROQ_API_KEY`).
 
 <img width="1917" height="1078" alt="Screenshot 2026-07-14 160156" src="https://github.com/user-attachments/assets/731094fa-2815-4fc4-bb9d-320280513361" />
 
+# 🎥 Project Demo
 
+📹 **Watch the demo video here:**
+
+[▶️ Demo Video](./Recording 2026-07-14 173548 (1).mp4)
 
 
