@@ -1,0 +1,12 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+pydantic>=2.7
+python-dotenv>=1.0
+python-dateutil>=2.9
+langchain-core>=0.3
+langchain-groq>=0.2
+langgraph>=0.2
+# --- Databases (per assignment spec: MySQL / Postgres) ---
+psycopg2-binary>=2.9        # PostgreSQL driver
+pymysql>=1.1                # MySQL driver (optional alternative)
