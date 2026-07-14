@@ -1,3 +1,13 @@
+
+
+https://github.com/user-attachments/assets/cc7ff73f-17ae-43db-915b-dedb1f7b5973
+
+
+
+
+
+
+
 # AI-First CRM — HCP Module · Log Interaction Screen
 
 An **AI-first** "Log HCP Interaction" screen for pharma field representatives.
@@ -248,5 +258,8 @@ real application requires `GROQ_API_KEY`).
 
 Click below to watch the project demo.
 
-▶️ **[Watch Demo Video](./Recording%202026-07-14%20173548%20(1).mp4)**
+
+https://github.com/user-attachments/assets/3dc56439-ff1c-4d7c-8a80-919d1410c559
+
+
 
